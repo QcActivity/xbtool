@@ -1,3 +1,3 @@
 [{"url":"jilehe.125ks.cn","type":0,
 "Rules":["cm.js","ad.js"]},
-{"url":"api.spapi.cn","type":1,"Rules":["navbar navbar-default","blog-footer"]}]
+{"url":"api.spapi.cn","type":1,"Rules":["lyear-layout-sidebar","dropdown dropdown-profile"]}]
