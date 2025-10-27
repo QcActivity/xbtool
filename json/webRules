@@ -1,5 +1,3 @@
-[{"url":"jilehe.125ks.cn","type":0,
-"Rules":["cm.js","ad.js"]},
+[{"url":"jilehe.125ks.cn","type":0,"Rules":["cm.js","ad.js"],"link":"这里是加载的忘了链接","function":"0为js屏蔽，1为元素屏蔽，url为屏蔽的域名rules屏蔽规则"},
 {"url":"api.spapi.cn","type":1,"Rules":["NAV.navbar"]},
-{"url":"jilehe","type":1,
-"Rules":["DIV.top","DIV.kefu-open"]}]
+{"url":"125ks","type":1,"Rules":["DIV.top"]]
