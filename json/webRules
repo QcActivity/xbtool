@@ -1,5 +1,5 @@
-[{"url":"jilehe.125ks.cn","type":0,"Rules":["cm.js","ad.js"],"link":"https://qcactivity.github.io/xbtool/HTML/%E8%8D%A1%E7%A7%8B%E5%8D%83.html","title":"摇摆女孩css","function":"type0为js屏蔽，1为元素屏蔽,2为空，url为屏蔽的域名rules屏蔽规则"},
+[{"url":"jilehe.125ks.cn","type":0,"Rules":["cm.js","ad.js"],"link":"https://qcactivity.github.io/xbtool/HTML/%E8%8D%A1%E7%A7%8B%E5%8D%83.html","title":"摇摆女孩css"},
 {"url":"125ks","type":1,"Rules":["DIV.top"],"title":"八音盒","link":"http://jilehe.125ks.cn/Voice/byh/"},
-{"url":"api.spapi.cn","type":1,"Rules":["NAV.navbar"],"title":"八音盒","link":"http://jilehe.125ks.cn/Voice/byh/"},
+{"url":"api.spapi.cn","type":1,"Rules":["NAV.navbar,DIV.kefu-open"],"title":"八音盒","link":"http://jilehe.125ks.cn/Voice/byh/"},
 {"url":"","type":2,"link":"https://qcactivity.github.io/xbtool/"}
 ]
